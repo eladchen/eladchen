@@ -9,7 +9,7 @@ As a tech leader, I want to inspire others to write effecient code and build the
 the opportunity to make something work and grow as a team. That's what makes me proud of what I do.
 
 <p>
- <img align="left" width="490" src="https://i.giphy.com/KzJkzjggfGN5Py6nkT.gif" />
+ <img align="left" width="450" src="https://i.giphy.com/KzJkzjggfGN5Py6nkT.gif" />
  
  <ul>
    <li>🔭 I’m currently working on <a href="https://github.com/abstracter-io/atomic-release">atomic-release</a></li>
