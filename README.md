@@ -9,6 +9,8 @@ I love coding, especially Javascript and Java, which allows me to solve challeng
 As a tech leader, I want to inspire others to write effecient code and build the best products possible. There's nothing like having
 the opportunity to make something work and grow as a team. That's what makes me proud of what I do.
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eladchen)
+
 - 🔭 I’m currently working on [atomic-release](https://github.com/abstracter-io/atomic-release)
 - 📝 I occasionally write articles on [medium](https://eladchen.medium.com/)
 - 💬 Ask me about anything, I am happy to help :)
