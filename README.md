@@ -4,30 +4,31 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white)](https://eladchen.medium.com/)
 [![Dev Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/eladchen/)
 
-I am a full-stack software engineer, and owner of the [abstracter](https://github.com/abstracter-io) org. I love programming, writing, speaking and traveling.
-
-I love coding, especially Javascript and Java, which allows me to solve challenging problems.
+I am a full-stack software engineer, and I love coding, especially Javascript and Java, which allows me to solve challenging problems.
 As a tech leader, I want to inspire others to write effecient code and build the best products possible. There's nothing like having
 the opportunity to make something work and grow as a team. That's what makes me proud of what I do.
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)
-![CSS3](https://img.icons8.com/color/30/css3.png)
-![SASS](https://img.icons8.com/color/30/sass.png)
- &nbsp; &nbsp;
-![Java](https://img.icons8.com/color/30/java.png)
-![JavaScript](https://img.icons8.com/color/30/javascript.png)
-![NodeJS](https://img.icons8.com/color/30/nodejs.png)
-![NPM](https://img.icons8.com/color/30/npm.png)
- &nbsp; &nbsp;
-![Git](https://img.icons8.com/color/30/git.png)
-![ReactJS](https://img.icons8.com/color/30/react-native.png)
- &nbsp; &nbsp;
-![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)
-![Linux](https://img.icons8.com/color/30/linux.png)
-![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)
-![Console](https://img.icons8.com/color/30/console.png)
+<p>
+ <img align="left" width="490" src="https://i.giphy.com/KzJkzjggfGN5Py6nkT.gif" />
+ 
+ <ul>
+   <li>🔭 I’m currently working on <a href="https://github.com/abstracter-io/atomic-release">atomic-release</a></li>
+   <li>💬 Owner of <a href="https://github.com/abstracter-io">abstracter</a> org</li>
+   <li>📝 I occasionally write articles on <a href="https://eladchen.medium.com">medium</a></li>
+   <li>💬 Ask me about anything, I am happy to help :)</li>
+   <li>📫 You can reach via <a href="https://www.linkedin.com/in/elad-chen-450a0521/">LinkedIn</a></li>
+ </ul>
 
-- 🔭 I’m currently working on [atomic-release](https://github.com/abstracter-io/atomic-release)
-- 📝 I occasionally write articles on [medium](https://eladchen.medium.com/)
-- 💬 Ask me about anything, I am happy to help :)
-- 📫 You can reach via [LinkedIn](https://www.linkedin.com/in/elad-chen-450a0521/)
+ <p>  
+   <img src="https://img.icons8.com/color/30/html-5.png" alt="HTML5" />
+   <img src="https://img.icons8.com/color/30/css3.png" alt="CSS3" />
+   <img src="https://img.icons8.com/color/30/sass.png" alt="SASS" />
+   <img src="https://img.icons8.com/color/30/java.png" alt="Java" />
+   <img src="https://img.icons8.com/color/30/javascript.png" alt="JavaScript" />
+   <img src="https://img.icons8.com/color/30/nodejs.png" alt="NodeJS" />
+   <img src="https://img.icons8.com/color/30/npm.png" alt="NPM" />
+   <img src="https://img.icons8.com/color/30/git.png" alt="GIT" />
+   <img src="https://img.icons8.com/color/30/react-native.png" alt="React" />
+   <img src="https://img.icons8.com/color/30/console.png" alt="Console" />
+ </p>
+</p>
